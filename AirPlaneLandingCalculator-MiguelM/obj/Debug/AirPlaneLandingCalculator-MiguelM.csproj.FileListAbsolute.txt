@@ -1,0 +1,7 @@
+C:\Users\17609\Desktop\VSProjects\AirPlaneLandingCalculator-MiguelM\bin\Debug\AirPlaneLandingCalculator-MiguelM.exe.config
+C:\Users\17609\Desktop\VSProjects\AirPlaneLandingCalculator-MiguelM\bin\Debug\AirPlaneLandingCalculator-MiguelM.exe
+C:\Users\17609\Desktop\VSProjects\AirPlaneLandingCalculator-MiguelM\bin\Debug\AirPlaneLandingCalculator-MiguelM.pdb
+C:\Users\17609\Desktop\VSProjects\AirPlaneLandingCalculator-MiguelM\obj\Debug\AirPlaneLandingCalculator-MiguelM.csproj.AssemblyReference.cache
+C:\Users\17609\Desktop\VSProjects\AirPlaneLandingCalculator-MiguelM\obj\Debug\AirPlaneLandingCalculator-MiguelM.csproj.CoreCompileInputs.cache
+C:\Users\17609\Desktop\VSProjects\AirPlaneLandingCalculator-MiguelM\obj\Debug\AirPlaneLandingCalculator-MiguelM.exe
+C:\Users\17609\Desktop\VSProjects\AirPlaneLandingCalculator-MiguelM\obj\Debug\AirPlaneLandingCalculator-MiguelM.pdb
